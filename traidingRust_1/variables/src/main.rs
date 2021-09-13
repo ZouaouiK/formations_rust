@@ -1,19 +1,14 @@
+mod var;
+mod cast;
+mod mutability;
+mod scope;
 fn main() {
-    let x = 2.0; // f64
-    let y: f32 = 3.0; // f32
-    
-    // addition
-    let sum = 5 + 10;
-
-    // subtraction
-    let difference = 95.5 - 4.3;
-
-    // multiplication
-    let product = 4 * 30;
-
-    // division
-    let quotient = 56.7 / 32.2;
-
-    // remainder
-    let remainder = 43 % 5;
+    println!("------------copy--------------");
+    var::copy_var();
+    println!("------------Cast And copy--------------");
+    cast::cast_copy_var();
+    println!("------------Mutability--------------");
+    mutability::var_muta();
+    println!("------------Scope and Shadowing--------------");
+    scope::var_scope()
 }

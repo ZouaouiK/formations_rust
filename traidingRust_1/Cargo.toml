@@ -3,5 +3,6 @@
 members = [
     "modules",
     "variables",
-    "traits"
+    "traits",
+    "flowOfControl"
 ]

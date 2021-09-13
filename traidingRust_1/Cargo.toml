@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "modules",
+    "variables",
+    "traits"
+]

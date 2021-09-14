@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "lessoin2",
+    "lesson3",
+    "splitting",
+    "vectors",
+]

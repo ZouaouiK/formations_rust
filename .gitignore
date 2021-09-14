@@ -1,3 +1,14 @@
-flowOfControl/target
+traidingRust_1/flowOfControl/target
 target/
-variables/target/
+traidingRust_2/vectors/target/
+traidingRust_2/splitting/target/
+traidingRust_1/variables/target/
+traidingRust_1/flowOfControl/target1/
+traidingRust_1/Cargo.lock
+traidingRust_2/Cargo.lock
+traidingRust_1/target/
+traidingRust_2/target/
+taidingRust_1/variables/Cargo.lock
+taidingRust_1/flowOfControl/Cargo.lock
+traidingRust_2/splitting/Cargo.lock
+traidingRust_2/vectors/Cargo.lock
